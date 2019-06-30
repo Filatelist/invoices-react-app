@@ -1,3 +1,8 @@
+### `json-server db.json`
+
+this command starts json server which works as api for this SPA app
+
+### About app
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
