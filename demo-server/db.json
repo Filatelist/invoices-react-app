@@ -1,0 +1,57 @@
+{
+  "invoices": [
+    {
+      "created": "28-06-2019",
+      "inv": "INV-1",
+      "supply": "28-06-2019",
+      "comment": "Test invoice"
+    },
+    {
+      "created": "27-06-2019",
+      "inv": "INV-2",
+      "supply": "28-06-2019",
+      "comment": "Second invoice"
+    },
+    {
+      "created": "26-06-2019",
+      "inv": "INV-3",
+      "supply": "28-06-2019",
+      "comment": "Third invoice"
+    },
+    {
+      "id": 4,
+      "created": "2019-06-18",
+      "inv": "INV-2",
+      "supply": "2019-06-13",
+      "comment": "1"
+    },
+    {
+      "id": 41.587415996095835,
+      "created": "2019-06-05",
+      "inv": "INV-2",
+      "supply": "2019-06-12",
+      "comment": ""
+    },
+    {
+      "id": 41.27486813248475,
+      "created": "2019-06-19",
+      "inv": "INV-2",
+      "supply": "2019-06-15",
+      "comment": "123546789"
+    },
+    {
+      "id": 10.159390719359653,
+      "created": "2019-06-23",
+      "inv": "INV-9",
+      "supply": "2019-06-21",
+      "comment": "comment"
+    },
+    {
+      "id": 3.8131886079727795,
+      "created": "2019-06-30",
+      "inv": "INV-2",
+      "supply": "2019-07-01",
+      "comment": "=кек"
+    }
+  ]
+}

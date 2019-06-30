@@ -1,0 +1,22 @@
+.bg-light{
+    background-color: #ffffff;
+    border: 0.1px solid #ECECED;
+    margin-top: 30px;
+    padding: 20px;
+}
+.left-right{
+    font-size: 14px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.weight{
+    font-weight: 500;
+}
+.color{
+    background-color: #F1F3F6;
+    color:#848CA0;
+}
+.color-text{
+    color: #A5A5A5;
+    font-weight: 400;
+}
