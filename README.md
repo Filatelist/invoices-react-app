@@ -1,3 +1,10 @@
+### What were used
+
+UI - React,bootstrap
+State control -- Redux
+Api - only simple json-server
+
+
 ### `json-server db.json`
 
 this command starts json server which works as api for this SPA app
